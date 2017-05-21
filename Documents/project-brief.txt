@@ -1,0 +1,7 @@
+Project brief
+
+I intend to create a website for my own personal interest. It will have
+different pages that are important for hiring professionals such as case
+studies, about section, and some other things. I intend this to be the
+foundation for my personal portfolio so that it can showcase some of my UX
+skills.
