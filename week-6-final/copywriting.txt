@@ -1,0 +1,69 @@
+Areas of the website:
+1: Design work
+2: About
+3: Contact
+4: Resume
+
+Work
+Between December 2016 and May 2017 I worked as a UX Design intern at pitch.Me, a
+LinkedIn like app where users donate to charity in order to get your attention.
+My responsibilities have included usability testing, heuristic evaluations,
+QA, lo-fi design work, and project management on our web and iOS app.
+
+Online Usability Testing
+Much of UX works relies heavily on time constraints, and by the nature of a startup,
+time is often an issue. To this end, I have been responsible for conducting
+an online usability study on the first version of our iPhone application.
+
+The main research questions were as follows:
+
+Can people successfully sign up and onboard?
+Can people use pitch.Me to book conversations effectively and efficiently?
+What is the satisfaction level from our iOS and desktop sign up and onboarding?
+What are the breakpoints in the process?
+Is reporting abuse intuitive enough for users
+
+Tasks:
+Imagine you are a business owner who is fed up with receiving unwanted emails,
+cold calls, or other forms of intrusive communication, however you do not want to
+shut out new potential business opportunities. You also are interested in charitable giving,
+and want to support a charity you care about.
+
+Task 1
+Use the pitch.Me iPhone application to add information about you and your business.
+User Goals: sign up, navigate to their profile, and update their profile (role,
+company, bio, location)
+
+Task 2
+Add a few things you are interested in to your profile.
+User Goals: Add interests
+
+Task 3
+Imagine as a business owner, you desire some sort of product or service that
+will help your business grow. Using pitch.Me, post the product or service that you desire.
+User Goals: Post needs
+
+Design Recommendations post study:
+1.Users are confused about what "Needs" are, as compared to interests. We need
+a better way to describe that you can post whatever it is you need and others
+will seek you out.
+2.Users do not read splash screens upon onboarding, we need to rethink where we
+put valuable information about using the app.
+3. Choosing a charity on a user's profile needs to be more intuitive, it's too hidden.
+
+About
+
+Hello everyone! My name is Chris Kmiec and I am a UX Generalist at pitch.Me,
+a small tech company located in Jackson, MI. My undergraduate degree is in
+neuroscience, but I am currently enrolled as a graduate student at Michigan
+State University for human computer interaction (HCI). My neuroscience degree
+has taught me how to be thorough and patient, as well as giving me writing and
+research skills.
+
+Contact
+
+(some kind of text box where you can submit emails to my kmiecchr@gmail.com address)
+
+Resume
+
+Link to my resume where they can print it right from there.
